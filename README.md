@@ -9,6 +9,6 @@ Extremely simple SF2/SFZ player. It didn't work at all with juce and didn't have
 Prebuilt binaries are available on the [releases](../../releases) page.
 
 ## Compiling
-You can compile with Xcode 8 or 9.
+You can compile with Xcode 8 or 9, but this mess of a plug requires JUCE, which is like building a project in activex and flash and every bad technology ever invented all messed into one gumball of annoyance. HAVE FUN!
 
 ![screenshot](screenshot.png)
